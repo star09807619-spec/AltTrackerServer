@@ -1,0 +1,11 @@
+{
+  "name": "AltTrackerServer",
+  "version": "1.0.0",
+  "main": "AltTrackerServer.js",
+  "scripts": {
+    "start": "node AltTrackerServer.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
